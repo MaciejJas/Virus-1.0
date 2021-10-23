@@ -9,4 +9,4 @@ I'm still learning how to code so the final product may never be realeased :)
 
 PROJECT CLOSED FOR NOW
 
-<center>[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)</center>
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
