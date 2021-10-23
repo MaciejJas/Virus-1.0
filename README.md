@@ -3,7 +3,7 @@
 
 !WARNING!
 
-Using this virus to hack someone / steal someones data is ILLEGAL The visrus is only meant for testing antyviruses or just to play wth virtual boxes
+Using this virus to hack someone / steal someones data is ILLEGAL The virus is only meant for testing antiviruses or just to play with virtual boxes or smth
 
 I'm still learning how to code so the final product may never be realeased :)
 
