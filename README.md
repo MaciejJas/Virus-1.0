@@ -7,4 +7,5 @@ Using this virus to hack someone / steal someones data is ILLEGAL The virus is o
 
 I'm still learning how to code so the final product may never be realeased :)
 
+PROJECT CLOSED FOR NOW
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
